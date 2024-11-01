@@ -1,0 +1,6 @@
+urlApiCep: 'https://viacep.com.br/ws/05846430/json'
+
+
+addressData: 
+  logradouro: "Rua Utuambá"
+  ddd: "11"
